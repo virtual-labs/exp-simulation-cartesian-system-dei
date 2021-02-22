@@ -115,7 +115,7 @@
       question: "In which direction extruder move?",
       answers: {
         a: "X direction",
-        b: "Y directionOption 2",
+        b: "Y direction",
         c: "Z direction",
         d: "Both a and c"
       },
